@@ -4,7 +4,7 @@
   "description": "Framework code that allows the development and operation of an Android Background Service.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Squix/cordova-background-service/com.red_folder.phonegap.plugin.backgroundservice.git"
+    "url": "git+https://github.com/Squix/cordova-background-service.git"
   },
   "keywords": [
     "background",
